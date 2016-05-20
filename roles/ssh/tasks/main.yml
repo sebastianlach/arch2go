@@ -2,3 +2,5 @@
 
 - pacman: name=openssh state=present
 
+- command: ssh-keygen -A
+
