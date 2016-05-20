@@ -2,7 +2,8 @@
 
 - hosts: all
   roles:
-  - vim
   - ssh
+  - users
+  - vim
   - zsh
 

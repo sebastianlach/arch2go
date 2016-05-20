@@ -1,0 +1,7 @@
+---
+
+- user: name=arch2go group=users shell=/bin/zsh
+        generate_ssh_key=yes ssh_key_bits=2048 ssh_key_file=.ssh/id_rsa
+
+- authorized_key: user=arch2go key=https://github.com/sebastianlach.keys
+

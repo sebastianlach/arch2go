@@ -5,5 +5,5 @@
 - git: repo=https://github.com/zsh-users/antigen.git
        dest=/opt/antigen
 
-- template: src=dot.zshrc.j2 dest=/root/.zshrc
+- template: src=dot.zshrc.j2 dest=/home/arch2go/.zshrc
 
