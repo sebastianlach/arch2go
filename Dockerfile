@@ -1,0 +1,6 @@
+#
+# Dockerfile
+#
+
+FROM slach/spitfire
+

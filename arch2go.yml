@@ -1,0 +1,8 @@
+---
+
+- hosts: all
+  roles:
+  - vim
+  - ssh
+  - zsh
+
