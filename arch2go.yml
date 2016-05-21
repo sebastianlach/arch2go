@@ -2,9 +2,9 @@
 
 - hosts: all
   roles:
-  - git
   - ssh
   - users
+  - git
   - vim
   - zsh
   - sudo
