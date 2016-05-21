@@ -9,6 +9,11 @@
 " }
 
 set nocompatible " State explicitly vi-compatible mode off
+set encoding=utf-8
+set fileencoding=utf-8
+
+let g:airline_powerline_fonts = 1
+let g:airline_theme='solarized'
 
 " Packages {
 
@@ -24,6 +29,7 @@ set nocompatible " State explicitly vi-compatible mode off
     Plugin 'ctrlpvim/ctrlp.vim'
     Plugin 'vim-airline/vim-airline'
     Plugin 'vim-airline/vim-airline-themes'
+    Plugin 'airblade/vim-gitgutter'
 
     call vundle#end()
     filetype plugin indent on
