@@ -30,6 +30,7 @@ let g:airline_theme='solarized'
     Plugin 'vim-airline/vim-airline'
     Plugin 'vim-airline/vim-airline-themes'
     Plugin 'airblade/vim-gitgutter'
+    Plugin 'davidhalter/jedi-vim'
 
     call vundle#end()
     filetype plugin indent on
@@ -65,5 +66,7 @@ let g:airline_theme='solarized'
     " Windows navigation binding
     map <C-J> <C-W>j<C-W>_
     map <C-K> <C-W>k<C-W>_
+    " Make binding
+    noremap <F5> :make<CR>
 " }
 
