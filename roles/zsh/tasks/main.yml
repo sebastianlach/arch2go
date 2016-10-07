@@ -6,4 +6,6 @@
        dest=/opt/antigen
 
 - template: src=dot.zshrc.j2 dest=/home/arch2go/.zshrc
-
+  become: yes
+  become_user: yes
+  
