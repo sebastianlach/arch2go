@@ -3,6 +3,5 @@
 - pacman: name=git state=present
 
 - template: src=dot.gitconfig.j2 dest=/home/arch2go/.gitconfig
-  become: yes
-  become_user: arch2go
+            owner=arch2go group=users
 

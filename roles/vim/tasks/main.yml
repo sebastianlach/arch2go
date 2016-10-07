@@ -3,8 +3,7 @@
 - pacman: name=vim state=present
 
 - template: src=dot.vimrc.j2 dest=/home/arch2go/.vimrc
-  become: yes
-  become_user: arch2go
+            owner=arch2go group=users
 
 - git: repo=https://github.com/VundleVim/Vundle.vim.git
        dest=/home/arch2go/.vim/bundle/Vundle.vim
