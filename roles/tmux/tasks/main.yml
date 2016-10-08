@@ -1,0 +1,7 @@
+---
+
+- pacman: name=tmux state=present
+
+- template: src=dot.tmux.conf.j2 dest=/home/arch2go/.tmux.conf
+            owner=arch2go group=users
+
