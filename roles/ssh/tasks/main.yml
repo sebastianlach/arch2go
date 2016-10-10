@@ -1,9 +1,0 @@
----
-
-- pacman: name=openssh state=present
-
-- command: ssh-keygen -A
-
-- template: src=ssh_config.j2 dest=/home/arch2go/.ssh/config
-- template: src=sshd_config.j2 dest=/etc/ssh/sshd_config
-

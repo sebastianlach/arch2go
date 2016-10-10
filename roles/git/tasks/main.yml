@@ -1,7 +1,0 @@
----
-
-- pacman: name=git state=present
-
-- template: src=dot.gitconfig.j2 dest=/home/arch2go/.gitconfig
-            owner=arch2go group=users
-

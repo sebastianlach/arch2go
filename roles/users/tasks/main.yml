@@ -1,8 +1,0 @@
----
-
-- user: name=arch2go group=users shell=/bin/zsh
-        password="f7faac202f2cabc0e6e417e6f7a07241"
-
-- authorized_key: user=arch2go
-                  key="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDo+CZG7d1al0Z5U5ApNUa7jb4+22hXbCWF1h2vQGCqoCUsfzJl4CSeG2ZgQ9KzkW2Zm85zp+H08W+FbPNrDbIGoodbAK4C6RY7dgMNwsgkGkjQhHP83t7qU8ak2e+iSFvy4uW+nvqMZ4GeX8PPQ9oHfhd/YyQdamoyUZf2Sfec9pW8/vAucUiA+0AjfWAS5x9Ul+1s1JuJIeZRIAsbt77DvNzSlPyQfJ9d+Jd/3UDPGVtNlKg/Zk5HPVR6cdq1awuwu74B4BkLCmDTbvIJSId+uOf/+vxSXTDTHYMpSWEqTH6WNMGOx3bgbzA1atTOh5UV26AyW0TwQemP6Yu9WDYi4qduylEfbneiQa8vJahRd61Uk3L+Iy6DDR01wfv5RO6FerT7cdz2uKeBl2tMPbCz7iShz2nfmadP1Cvma4OIfQ0o/AlHjhESY3rqOrQzGKGCRV23zXfq+YUOz1YAwkfcccMTckimAKJtB14PIXmIfTzCTCPeWuTzN3FfXMKhc3BEzkL4crZQTScmOelUcTPmGKRjWlvCJiHWCM7Inzc4vmU2di/4e5kWx3bYpyxgDfPlapUVWbJvootVJ6k79yBGUycwEG+lNqTEeFy1Co4LbtcQoYJ9ehWyR1xtdQABnh2hyw6Kw2FPX2l8NMjIkk+IJFUjEQpoW7LR5r1xuc9nEw=="
-

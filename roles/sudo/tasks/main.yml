@@ -1,6 +1,0 @@
----
-
-- pacman: name=sudo state=present
-
-- template: src=sudoers.j2 dest=/etc/sudoers.d/wheel
-
