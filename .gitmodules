@@ -22,3 +22,6 @@
 [submodule "roles/ssh"]
 	path = roles/ssh
 	url = git@github.com:sebastianlach/ansible-ssh.git
+[submodule "roles/mosh"]
+	path = roles/mosh
+	url = git@github.com:sebastianlach/ansible-mosh.git
