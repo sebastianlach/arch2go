@@ -1,3 +1,7 @@
+# ansible
 ansible.cfg
 hosts
+roles/
+
+# temp
 *.retry
