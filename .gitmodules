@@ -1,27 +1,33 @@
 [submodule "roles/zsh"]
 	path = roles/zsh
-	url = git@github.com:sebastianlach/ansible-zsh.git
+	url = https://github.com/sebastianlach/ansible-zsh.git
 [submodule "roles/git"]
 	path = roles/git
-	url = git@github.com:sebastianlach/ansible-git.git
+	url = https://github.com/sebastianlach/ansible-git.git
 [submodule "roles/htop"]
 	path = roles/htop
-	url = git@github.com:sebastianlach/ansible-htop.git
+	url = https://github.com/sebastianlach/ansible-htop.git
 [submodule "roles/tmux"]
 	path = roles/tmux
-	url = git@github.com:sebastianlach/ansible-tmux.git
+	url = https://github.com/sebastianlach/ansible-tmux.git
 [submodule "roles/users"]
 	path = roles/users
-	url = git@github.com:sebastianlach/ansible-users.git
+	url = https://github.com/sebastianlach/ansible-users.git
 [submodule "roles/vim"]
 	path = roles/vim
-	url = git@github.com:sebastianlach/ansible-vim.git
+	url = https://github.com/sebastianlach/ansible-vim.git
 [submodule "roles/sudo"]
 	path = roles/sudo
 	url = git@github.com:sebastianlach/ansible-sudo.git
 [submodule "roles/ssh"]
 	path = roles/ssh
-	url = git@github.com:sebastianlach/ansible-ssh.git
+	url = https://github.com/sebastianlach/ansible-ssh.git
 [submodule "roles/mosh"]
 	path = roles/mosh
-	url = git@github.com:sebastianlach/ansible-mosh.git
+	url = https://github.com/sebastianlach/ansible-mosh.git
+[submodule "roles/sudpo"]
+	path = roles/sudo
+	url = https://github.com/sebastianlach/ansible-sudo.git
+[submodule "roles/zerows"]
+	path = roles/zerows
+	url = https://github.com/sebastianlach/ansible-zerows.git
