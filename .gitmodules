@@ -25,9 +25,6 @@
 [submodule "roles/mosh"]
 	path = roles/mosh
 	url = https://github.com/sebastianlach/ansible-mosh.git
-[submodule "roles/sudpo"]
-	path = roles/sudpo
-	url = https://github.com/sebastianlach/ansible-sudo.git
 [submodule "roles/zerows"]
 	path = roles/zerows
 	url = https://github.com/sebastianlach/ansible-zerows.git
