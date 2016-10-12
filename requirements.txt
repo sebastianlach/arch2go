@@ -1,0 +1,9 @@
+sebastianlach.git
+sebastianlach.htop
+sebastianlach.mosh
+sebastianlach.ssh
+sebastianlach.sudo
+sebastianlach.tmux
+sebastianlach.users
+sebastianlach.vim
+sebastianlach.zsh
