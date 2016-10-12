@@ -18,7 +18,7 @@
 	url = https://github.com/sebastianlach/ansible-vim.git
 [submodule "roles/sudo"]
 	path = roles/sudo
-	url = git@github.com:sebastianlach/ansible-sudo.git
+	url = https://github.com/sebastianlach/ansible-sudo.git
 [submodule "roles/ssh"]
 	path = roles/ssh
 	url = https://github.com/sebastianlach/ansible-ssh.git
