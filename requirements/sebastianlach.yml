@@ -1,20 +1,13 @@
 ---
 
 - src: sebastianlach.git
-
 - src: sebastianlach.htop
-
 - src: sebastianlach.mosh
-
+- src: sebastianlach.python
 - src: sebastianlach.ssh
-
 - src: sebastianlach.sudo
-
 - src: sebastianlach.tmux
-
 - src: sebastianlach.users
-
 - src: sebastianlach.vim
-
 - src: sebastianlach.zsh
 
