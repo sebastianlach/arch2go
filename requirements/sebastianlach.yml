@@ -8,6 +8,6 @@
 - src: sebastianlach.sudo
 - src: sebastianlach.tmux
 - src: sebastianlach.users
-- src: sebastianlach.vim
+- src: sebastianlach.neovim
 - src: sebastianlach.zsh
 

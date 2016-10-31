@@ -6,10 +6,10 @@
   - sebastianlach.sudo
   - sebastianlach.ssh
   - sebastianlach.git
-  - sebastianlach.vim
   - sebastianlach.zsh
   - sebastianlach.htop
   - sebastianlach.tmux
   - sebastianlach.mosh
   - sebastianlach.python
+  - sebastianlach.neovim
 
